@@ -1,6 +1,6 @@
 ### Scrolling Numbers
 #### Programming challerge description:
-Link: https://leetcode.com/discuss/interview-question/773647/jpmorgan-online-assessment
+https://leetcode.com/discuss/interview-question/773647/jpmorgan-online-assessment
 
 You have been given a special kind of lock to open called a "Scrolling Combination Lock" The lock has 9 keys numbered from 1 to 9.
 Additionally, there are two numbers printed beow the keys suggesting a range of values. To open the lock, you must enter all the numbers in the range that are "Scatting Numbers"
